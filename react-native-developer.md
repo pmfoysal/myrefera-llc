@@ -8,7 +8,7 @@
 **Application Email:** [pmfoysal@gmail.com](pmfoysal@gmail.com) <br>
 **Subject Line:** React Native Developer \[Years of experience] - \[Full Name] <br>
 **Required Data:** Cover Letter, Resume, Live app links (if any) <br>
-**Submission Deadline:** 15 July 2025 <br>
+**Submission Deadline:** 18 July 2025 <br>
 
 ## **🏢 About Us:**
 At MyRefera LLC, we connect brands with the right influencers to amplify their reach and drive growth. Our platform enables businesses of all sizes to launch influencer marketing campaigns quickly and efficiently, ensuring they find the perfect match for their brand. With a diverse pool of creators and fully managed services, we help our clients produce engaging content that resonates with their audience.
