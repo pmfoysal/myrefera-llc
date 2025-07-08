@@ -1,11 +1,12 @@
 # **📱 React Native Developer**
 
 **Company:** MyRefera LLC <br>
+**Website:** [https://myrefera.com](https://myrefera.com) <br>
 **Location:** Remote (Company based in Sharjah, United Arab Emirates) <br>
 **Salary:** $800/month during 1-month probation <br>
 **Start Date:** Immediate <br>
 **Working Days:** Mon-Fri (Flexible Timing) <br>
-**Application Email:** [pmfoysal@gmail.com](pmfoysal@gmail.com) <br>
+**Application Email:** [pmfoysal@gmail.com](mailto:pmfoysal@gmail.com) <br>
 **Subject Line:** React Native Developer \[Years of experience] - \[Full Name] <br>
 **Required Data:** Cover Letter, Resume, Live app links (if any) <br>
 **Submission Deadline:** 18 July 2025 <br>
